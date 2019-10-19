@@ -12,7 +12,6 @@ It is necessary for the data scientist to perform matrix operations, image proce
 
 # The Task - Yapılacak İş
 You are required to code a matrix, image and table classes. - Bir matris, görüntü ve tablo sınıfları kodlamanız istenmektedir.
-
     - A Matrix template class . We must be able to do the following operations in main function with matrix class. - Tamsayı değerleri olan bir Matrix sınıfı olmalıdır. Ana fonksiyonda aşağıdaki işlemleri matris sınıfıyla yapabilmeliyiz.
     - Matrix<int> *m1 = new Matrix<int>();  → 10x10 matrix with zeros. - 0 değerli 10x10 matris.
     - Matrix<int> *m2 = new Matrix<int>(3,2,1);  → 3x2 matrix with ones. - 1 değerli 3x2 matris.
