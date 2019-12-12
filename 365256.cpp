@@ -1,8 +1,6 @@
 /*
     Alper Babadağ  365256
 	
-	Tel: 	05434242984
-	
 	Email:	365256@ogr.ktu.edu.tr
 	
 	Bu projede Matrix Image ve Table şablon sınıfları oluşturuldu.
